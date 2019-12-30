@@ -7,3 +7,5 @@ And now a third line of text is being added to Alice.
 I'm adding another change now. 
 
 I confused myself before. Here's another attempt.
+
+More changes!
