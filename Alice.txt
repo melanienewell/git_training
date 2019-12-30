@@ -11,3 +11,6 @@ I confused myself before. Here's another attempt.
 More changes!
 
 A change here that will conflict with my local change.
+
+And another change so I can practice git.stash
+
