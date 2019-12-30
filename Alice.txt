@@ -14,3 +14,5 @@ A change here that will conflict with my local change.
 
 And another change so I can practice git.stash
 
+I've resolved so many conflicts that I'd just like to do a conflict-free pull this time :)
+
