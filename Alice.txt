@@ -6,3 +6,7 @@ And now a third line of text is being added to Alice.
 
 I'm adding another change now. 
 
+<<<<<<< HEAD
+=======
+I confused myself before. Here's another attempt.
+>>>>>>> 07cff07a39446dd80ff62534e1493761ee085a36
